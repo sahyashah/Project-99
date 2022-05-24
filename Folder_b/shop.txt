@@ -1,0 +1,13 @@
+resources:
+2000M
+
+Manpower:
+1000M
+
+maintainence 4000M
+
+Personal savings:
+5000M
+
+money required from invester:
+2000M
